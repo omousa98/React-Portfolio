@@ -85,19 +85,19 @@ let resumeData = {
       {
         "name":"project1",
         "description":"E-Commerce-Back-End",
-        "imgurl":"C:\Users\Omarm\OneDrive\Desktop\Bootcamp new\React-Portfolio\public\images\E-Commerce-Omar.jpg",
+        "imgurl":"images/E-Commerce-Omar.jpg",
         "gitURL": "https://github.com/omousa98/E-Commerce-Back-End"
       },
       {
         "name":"project2",
         "description":"Text-Editor",
-        "imgurl":"public\images\JATE-Website-Omar.jpg",
+        "imgurl":"images/JATE-Website-Omar.jpg",
         "gitURL": "https://github.com/omousa98/Text-Editor"
       },
       {
         "name":"project3",
         "description":"Personalized-Notebook",  
-        "imgurl":"C:\Users\Omarm\OneDrive\Desktop\Bootcamp new\React-Portfolio\public\images\Notebook Omar.JPG",
+        "imgurl":"images/Notebook-Omar.jpg",
         "gitURL": "https://github.com/omousa98/Personalized-Notebook"
       },
       {
