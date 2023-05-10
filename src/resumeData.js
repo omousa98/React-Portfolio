@@ -16,29 +16,36 @@ let resumeData = {
     "education":[
       {
         "id": 1,
-        "UniversityName":"SaddleBack College",
-        "specialization":"B.S., Business Administration",
-        "MonthOfPassing":"May",
+        "UniversityName":"University Of California Irvine",
+        "specialization":"Full Stack Coding Certificate",
+        "MonthOfPassing":"Feb",
         "YearOfPassing":"2023",
       },
       {
         "id": 2,
-        "UniversityName":"UCI Continued Education",
-        "specialization":"The Coding Bootcamp Certificate",
-        "MonthOfPassing":"Feb",
-        "YearOfPassing":"2023",
+        "UniversityName":"California State University, Fullerton",
+        "specialization":"B.A Business Information & System Technology",
+        "MonthOfPassing":"Current",
+        "YearOfPassing":"Expected Graduation 2025",
       }
     ],
     "work":[
       {
         "id": 1,
         "CompanyName":"LoanDepot",
-        "specialization":"Capital One Team Manager",
+        "specialization":"Customer Lending Team Manager",
         "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2022",
+        "YearOfLeaving":"2021-2022",
+      },
+      {
+        "id": 2,
+        "CompanyName":"LoanDepot",
+        "specialization":"Customer Lending Representative",
+        "MonthOfLeaving":"Dec",
+        "YearOfLeaving":"2020-2021",
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Technical Skills",
     "skills":[
       {
         "id": 1,
@@ -64,30 +71,34 @@ let resumeData = {
         "id": 6,
         "skillname":"MongoDB"
       }
+      {
+        "id": 7,
+        "skillname":"etc, Please look at my resume for more Info"
+      }
     ],
     "portfolio":[
       {
         "name":"project1",
         "description":"E-Commerce-Back-End",
-        "imgurl":"images/portfolio/coffee.jpg",
+        "imgurl":"images/E-Commerce-Omar.jpg",
         "gitURL": "https://github.com/omousa98/E-Commerce-Back-End"
       },
       {
         "name":"project2",
-        "description":"Group-Profile-Generator",
-        "imgurl":"images/portfolio/retrocam.jpg",
-        "gitURL": "https://github.com/omousa98/Group-Profile-Generator"
+        "description":"Text-Editor",
+        "imgurl":"images/JATE-Website-Omar.jpg",
+        "gitURL": "https://github.com/omousa98/Text-Editor"
       },
       {
         "name":"project3",
-        "description":"Tech-Blog",  
-        "imgurl":"images/portfolio/origami.jpg",
-        "gitURL": "https://github.com/crowdsourcechronicles/chroniclesblog"
+        "description":"Personalized-Notebook",  
+        "imgurl":"images/Notebook-Omar.jpg",
+        "gitURL": "https://github.com/omousa98/Personalized-Notebook"
       },
       {
         "name":"project4",
         "description":"Recipe-Project",
-        "imgurl":"images/portfolio/into-the-light.jpg",
+        "imgurl":"images/into-the-light.jpg",
         "gitURL": "https://github.com/CleveHardcastle/Recipe_Project"
       }
     ]
