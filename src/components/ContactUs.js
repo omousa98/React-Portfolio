@@ -13,7 +13,7 @@ export default function ContactUs( {resumeData} ) {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Linked in :
+                <h4>Linked in : https://www.linkedin.com/in/omar-mousa-7aa4b9269/
                   {resumeData.linkedinId}
                 </h4>
               </div>
