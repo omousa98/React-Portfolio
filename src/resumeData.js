@@ -70,11 +70,11 @@ let resumeData = {
       {
         "id": 6,
         "skillname":"MongoDB"
-      }
+      },
       {
         "id": 7,
         "skillname":"etc, Please look at my resume for more Info"
-      }
+      },
     ],
     "portfolio":[
       {
