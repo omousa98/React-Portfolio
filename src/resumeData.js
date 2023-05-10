@@ -5,6 +5,11 @@ let resumeData = {
     "roleDescription": "I love anything and everything to do with technology. My thirst to learn in this industry is what pushes me to learn how to create bigger and better things!",
     "socialLinks":[
         {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/omar-mousa-7aa4b9269/",
+          "className":"fa fa-linkedin"
+        },
+        {
           "name":"github",
           "url":"https://github.com/omousa98",
           "className":"fa fa-github"
