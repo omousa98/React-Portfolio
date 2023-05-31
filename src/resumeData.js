@@ -1,8 +1,8 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/omousa98",
-    "name": "Omar mousa",
+    "name": "Omar Mousa",
     "role": "Full Stack Developer",
-    "roleDescription": "I love anything and everything to do with technology. My thirst to learn in this industry is what pushes me to learn how to create bigger and better things!",
+    "roleDescription": " I love anything and everything to do with technology. My thirst to learn in this industry is what pushes me to learn how to create bigger and better things!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -16,7 +16,7 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently looking to dive into a more technical role to expand and broaden my skills!",
-    "address":"US",
+    "address":"US West",
     "website":"https://github.com/omousa98",
     "education":[
       {
@@ -85,19 +85,19 @@ let resumeData = {
       {
         "name":"project1",
         "description":"E-Commerce-Back-End",
-        "imgurl":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/E-Commerce-Omar.jpg",
+        "imgurl":"./images/E-Commerce-Omar.jpg",
         "gitURL": "https://github.com/omousa98/E-Commerce-Back-End"
       },
       {
         "name":"project2",
         "description":"Text-Editor",
-        "imgurl":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/JATE-Website-Omar.jpg",
+        "imgurl":"./images/JATE-Website-Omar.jpg",
         "gitURL": "https://github.com/omousa98/Text-Editor"
       },
       {
         "name":"project3",
         "description":"Personalized-Notebook",  
-        "imgurl":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/Notebook-Omar.JPG",
+        "imgurl":"./images/Notebook-Omar.JPG",
         "gitURL": "https://github.com/omousa98/Personalized-Notebook"
       },
       {
