@@ -12,8 +12,8 @@ export default function Portfolio({ resumeData }) {
                 return (
                   <div key={item.gitURL} className="columns portfolio-item">
                     <div className="item-wrap">
-                      <a href={item.gitURL} target="_blank" rel="noopener noreferrer">
-                        <img src={`${item.imgurl}`} className="item-img" alt="portfolio" />
+                      <a href={item.gitURL} target="#" rel="noopener noreferrer">
+                        <img src={`${item.imgURL}`} className="item-img" alt="portfolio" />
                         <div className="overlay">
                           <div className="portfolio-item-meta">
                             <h5>{item.name}</h5>

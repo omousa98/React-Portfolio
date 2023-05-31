@@ -85,25 +85,25 @@ let resumeData = {
       {
         "name":"project1",
         "description":"E-Commerce-Back-End",
-        "imgurl":"src/images/E-Commerce-Omar.jpg",
+        "imgURL":"C:/Users/Omarm/OneDrive/Desktop/Bootcamp new/React-Portfolio/src/images/E-Commerce-Omar.jpg",
         "gitURL": "https://github.com/omousa98/E-Commerce-Back-End"
       },
       {
         "name":"project2",
         "description":"Text-Editor",
-        "imgurl":"src/images/JATE-Website-Omar.jpg",
+        "imgURL":"C:/Users/Omarm/OneDrive/Desktop/Bootcamp new/React-Portfolio/src/images/JATE-Website-Omar.jpg",
         "gitURL": "https://github.com/omousa98/Text-Editor"
       },
       {
         "name":"project3",
         "description":"Personalized-Notebook",  
-        "imgurl":"src/images/Notebook-Omar.JPG",
+        "imgURL":"C:/Users/Omarm/OneDrive/Desktop/Bootcamp new/React-Portfolio/src/images/Notebook-Omar.JPG",
         "gitURL": "https://github.com/omousa98/Personalized-Notebook"
       },
       {
         "name":"project4",
         "description":"Recipe-Project",
-        "imgurl":"images/into-the-light.jpg",
+        "imgURL":"images/into-the-light.jpg",
         "gitURL": "https://github.com/CleveHardcastle/Recipe_Project"
       }
     ]
