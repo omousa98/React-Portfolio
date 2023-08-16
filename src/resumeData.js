@@ -1,6 +1,6 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/omousa98",
-    "name": "Omarmousa@outlook.com",
+    "name": "Omar Mousa",
     "role": "Full Stack Developer",
     "roleDescription": " I love anything and everything to do with technology. My thirst to learn in this industry is what pushes me to learn how to create bigger and better things!",
     "socialLinks":[
