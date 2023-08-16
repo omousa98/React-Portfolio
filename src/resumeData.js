@@ -1,6 +1,6 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/omousa98",
-    "name": "Omar Mousa",
+    "name": "Omarmousa@outlook.com",
     "role": "Full Stack Developer",
     "roleDescription": " I love anything and everything to do with technology. My thirst to learn in this industry is what pushes me to learn how to create bigger and better things!",
     "socialLinks":[
@@ -17,7 +17,6 @@ let resumeData = {
       ],
     "aboutme":"I am currently looking to dive into a more technical role to expand and broaden my skills!",
     "address":"USA Lake Forest, CA 92610",
-    "email":"Omarmousa@outlook.com",
     "website":"https://github.com/omousa98",
     "education":[
       {
@@ -30,7 +29,7 @@ let resumeData = {
       {
         "id": 2,
         "UniversityName":"California State University, Fullerton",
-        "specialization":"B.A Business Information & System Technology",
+        "specialization":"B.S Computer Science",
         "MonthOfPassing":"Current",
         "YearOfPassing":"Expected Graduation 2025",
       }
