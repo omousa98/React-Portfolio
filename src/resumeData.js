@@ -16,13 +16,14 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently looking to dive into a more technical role to expand and broaden my skills!",
-    "address":"US West",
+    "address":"USA Lake Forest, CA 92610",
+    "email":"Omarmousa@outlook.com",
     "website":"https://github.com/omousa98",
     "education":[
       {
         "id": 1,
-        "UniversityName":"University Of California Irvine",
-        "specialization":"Full Stack Coding Certificate",
+        "UniversityName":"University Of California - Irvine Boot Camp",
+        "specialization":"Full Stack Development Coding Certificate",
         "MonthOfPassing":"Feb",
         "YearOfPassing":"2023",
       },
@@ -48,6 +49,13 @@ let resumeData = {
         "specialization":"Customer Lending Representative",
         "MonthOfLeaving":"Dec",
         "YearOfLeaving":"2020-2021",
+      },
+      {
+        "id": 3,
+        "CompanyName":"KittyHawk",
+        "specialization":"Junior Software Engineer",
+        "MonthOfLeaving":"Sept",
+        "YearOfLeaving":"2021-2022",
       },
     ],
     "skillsDescription":"Technical Skills",
