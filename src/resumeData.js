@@ -127,25 +127,25 @@ let resumeData = {
       {
         "name":"project1",
         "description":"Presidential Comfort Shopify",
-        "imgURL":"public\images\Presidential Comfort.jpg",
+        "imgURL":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/Presidential%20Comfort.jpg",
         "gitURL": "https://0d5315-3.myshopify.com/"
       },
       {
         "name":"project2",
         "description":"Caltech Force Website",
-        "imgURL":"public\images\Caltech Force.jpg",
+        "imgURL":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/Caltech%20Force.jpg",
         "gitURL": "https://caltechforce.com/"
       },
       {
         "name":"project3",
         "description":"KittyHark Website",  
-        "imgURL":"public\images\KittyHawk.jpg",
+        "imgURL":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/KittyHawk.jpg",
         "gitURL": "https://www.kittyhawk.aero/"
       },
       {
         "name":"project4",
         "description":"Recipe-Project",
-        "imgURL":"public\images\Recipe Project.jpg",
+        "imgURL":"https://raw.githubusercontent.com/omousa98/React-Portfolio/main/public/images/Recipe%20Project.jpg",
         "gitURL": "https://clevehardcastle.github.io/Recipe_Project/"
       }
     ]
