@@ -12,7 +12,7 @@ export default function Header( {resumeData} ) {
                <li><a className="smoothscroll" href="#resume">Experience</a></li>
                <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
-               <li><a className="Clickable" href="https://docs.google.com/document/d/11maKIj8LIstbbF3Lj3X27CrABGWtbSW2e1PFBkQODGw/edit?usp=sharing">Resume</a></li>
+               <li><a className="Clickable" href="https://drive.google.com/file/d/1DdSZyJRKuceGP2ciZjGENr1CWaVfMzLJ/view?usp=sharing">Resume</a></li>
             </ul>
          </nav>
 

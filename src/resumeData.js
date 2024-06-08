@@ -6,7 +6,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/omar-mousa-7aa4b9269/",
+          "url":"https://www.linkedin.com/in/omar-mousa/",
           "className":"fa fa-linkedin"
         },
         {
@@ -21,40 +21,75 @@ let resumeData = {
     "education":[
       {
         "id": 1,
-        "UniversityName":"University Of California - Irvine Boot Camp",
-        "specialization":"Full Stack Development Coding Certificate",
-        "MonthOfPassing":"Feb",
+        "UniversityName":"California State University, Fullerton",
+        "specialization":"B.S Computer Science",
+        "MonthOfPassing":"May",
         "YearOfPassing":"2023",
       },
       {
         "id": 2,
-        "UniversityName":"California State University, Fullerton",
-        "specialization":"B.S Computer Science",
-        "MonthOfPassing":"Current",
-        "YearOfPassing":"Expected Graduation 2025",
+        "UniversityName":"University Of California - Irvine Boot Camp",
+        "specialization":"Full Stack Development Coding Certificate",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2022",
+      },
+      {
+        "id": 3,
+        "UniversityName":"Saddleback College",
+        "specialization":"A.A Business Information and Systems Technology",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2019",
       }
     ],
     "work":[
       {
         "id": 1,
-        "CompanyName":"LoanDepot",
-        "specialization":"Customer Lending Team Manager",
-        "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2021-2022",
+        "CompanyName":"Caltech Force",
+        "specialization":"Software Engineer/System Management",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2023-Current",
       },
       {
         "id": 2,
         "CompanyName":"LoanDepot",
-        "specialization":"Customer Lending Representative",
+        "specialization":"Customer Lending Team Manager/Software Engineer",
         "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2020-2021",
+        "YearOfLeaving":"2020-2022",
       },
       {
         "id": 3,
         "CompanyName":"KittyHawk",
-        "specialization":"Junior Software Engineer",
+        "specialization":"Associate Software Engineer",
         "MonthOfLeaving":"Sept",
         "YearOfLeaving":"2021-2022",
+      },
+      {
+        "id": 4,
+        "CompanyName":"Binary-Search-Algorithm (Contract)",
+        "specialization":"Python Developer",
+        "MonthOfLeaving":"()",
+        "YearOfLeaving":"Mar 2023 - Jun 2023",
+      },
+      {
+        "id": 5,
+        "CompanyName":"E-Commerce-Back-End (Contract)",
+        "specialization":"JavaScript Engineer",
+        "MonthOfLeaving":"()",
+        "YearOfLeaving":"Jan 2023 - Feb 2023",
+      },
+      {
+        "id": 6,
+        "CompanyName":"Text-Blog (Contract)",
+        "specialization":"Full Stack Developer",
+        "MonthOfLeaving":"()",
+        "YearOfLeaving":"Oct 2022 - Dec 2022",
+      },
+      {
+        "id": 7,
+        "CompanyName":"Recipe-Project (Contract)",
+        "specialization":"Front-End Engineer",
+        "MonthOfLeaving":"()",
+        "YearOfLeaving":"Aug 2022 - Oct 2022",
       },
     ],
     "skillsDescription":"Technical Skills",
@@ -85,33 +120,33 @@ let resumeData = {
       },
       {
         "id": 7,
-        "skillname":"etc, Please look at my resume for more Info"
+        "skillname":"etc, Take a look at my resume for more Info"
       },
     ],
     "portfolio":[
       {
         "name":"project1",
-        "description":"E-Commerce-Back-End",
-        "imgURL":"C:/Users/Omarm/OneDrive/Desktop/Bootcamp new/React-Portfolio/src/images/E-Commerce-Omar.jpg",
-        "gitURL": "https://github.com/omousa98/E-Commerce-Back-End"
+        "description":"Presidential Comfort Shopify",
+        "imgURL":"public\images\Presidential Comfort.jpg",
+        "gitURL": "https://0d5315-3.myshopify.com/"
       },
       {
         "name":"project2",
-        "description":"Text-Editor",
-        "imgURL":"C:/Users/Omarm/OneDrive/Desktop/Bootcamp new/React-Portfolio/src/images/JATE-Website-Omar.jpg",
-        "gitURL": "https://github.com/omousa98/Text-Editor"
+        "description":"Caltech Force Website",
+        "imgURL":"public\images\Caltech Force.jpg",
+        "gitURL": "https://caltechforce.com/"
       },
       {
         "name":"project3",
-        "description":"Personalized-Notebook",  
-        "imgURL":"C:/Users/Omarm/OneDrive/Desktop/Bootcamp new/React-Portfolio/src/images/Notebook-Omar.JPG",
-        "gitURL": "https://github.com/omousa98/Personalized-Notebook"
+        "description":"KittyHark Website",  
+        "imgURL":"public\images\KittyHawk.jpg",
+        "gitURL": "https://www.kittyhawk.aero/"
       },
       {
         "name":"project4",
         "description":"Recipe-Project",
-        "imgURL":"images/into-the-light.jpg",
-        "gitURL": "https://github.com/CleveHardcastle/Recipe_Project"
+        "imgURL":"public\images\Recipe Project.jpg",
+        "gitURL": "https://clevehardcastle.github.io/Recipe_Project/"
       }
     ]
   }
