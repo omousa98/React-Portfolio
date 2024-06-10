@@ -16,7 +16,7 @@
 
 ![screenshot1](https://raw.githubusercontent.com/omousa98/React-Portfolio/main/Capture.JPG)
 
-[Netlify Deployed Application](https://desolate-plains-91223.herokuapp.com/)
+[Netlify Deployed Application](https://omar-mousa-portfolio-00abf019643c.herokuapp.com/)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
